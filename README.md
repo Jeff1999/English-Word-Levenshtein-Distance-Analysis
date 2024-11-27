@@ -1,5 +1,6 @@
 # English-Word-Levenshtein-Distance-Analysis
 This is the repository for my project for COSC 421. 
+
 Jeff Paller, 21677646
 
 "Results Found (Graphs, Statistics, etc.)" is a folder than contains images for all of the analyses we conducted. 
