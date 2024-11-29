@@ -8,5 +8,5 @@ This folder contains what you would typically see when you properly run our R fi
 
 "421ProjectLevenshteinDistance.R" is the R file we created to find our results.
 
-"google-10000-english-no-swears.txt" is the text file that contains our dataset we used. This is the file our R file analyzed 
+"google-10000-english-no-swears.txt" is the text file that represents our dataset we used. This is the file our R file analyzed 
 to find our results. 
